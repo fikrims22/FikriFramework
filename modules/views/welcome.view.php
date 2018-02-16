@@ -28,6 +28,6 @@
 </style>
 <body>
 	<h1>Welcome to FikFramework 1.0</h1>
-	<h3>Mari Mengoding dengan indah</h3>
+	<h3>Mari Mengoding Dengan Indah</h3>
 </body>
 </html>
